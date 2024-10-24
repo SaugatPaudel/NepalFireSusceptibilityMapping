@@ -91,7 +91,3 @@ The script will generate classified rasters for static factors, create a base fi
 ## License
 
 This project is licensed under the MIT License
-
----
-
-This `README.md` should help guide users to understand, install, and run your project successfully!
